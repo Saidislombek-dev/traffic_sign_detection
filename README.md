@@ -2,6 +2,7 @@
  traffic signs detection and classification
 
 <video width="320" height="240" controls>
-  <source src="result.mp4" type="video/mp4">
+  <source src="https://github.com/Saidislombek-dev/traffic_sign_detection/blob/main/result.mp4?raw=true" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
