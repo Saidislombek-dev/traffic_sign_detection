@@ -5,4 +5,4 @@
   <source src="https://github.com/Saidislombek-dev/traffic_sign_detection/blob/main/result.mp4?raw=true" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
+![img](https://github.com/Saidislombek-dev/traffic_sign_detection/blob/main/result.png)
