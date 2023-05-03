@@ -40,7 +40,6 @@
  - code is also written for the file in video format
 
 ## Example
-### Video > [result.mp4](result.mp4)
 
 ![img](images/result.png)
 ### **That's why it find some character names wrong in the example picture
